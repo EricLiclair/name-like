@@ -4,6 +4,8 @@ This project is aimed at generating name-like words using various modeling techn
 
 - **[bigram](bigram/notebook.ipynb):** This subdirectory contains the implementation of a bigram model for generating name-like words. The bigram model is built using character bigrams and is explained in detail in its own README.
 
+- **[single layer neural network](single-layer-nn/single-layer-nn.ipynb):** This subdirectory contains the implementation of a single layered neural network approach to bigram model for generating name-like words.
+
 ## Project Overview
 
 The project as a whole aims to explore different approaches to generate words. It encompasses a diverse range of modeling techniques, from simple bigram models to advanced neural network-based models like MLP, RNN, and GRU. The choice of modeling technique may influence the generated words' quality, diversity, and coherence.
