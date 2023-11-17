@@ -3,10 +3,12 @@
 This project is aimed at generating name-like words using various modeling techniques. The project is organized into different subdirectories, each representing a specific modeling approach for word generation. Here's a summary of the project structure and its subdirectories:
 
 - **[bigram](bigram/notebook.ipynb):** This subdirectory contains the implementation of a bigram model for generating name-like words. The bigram model is built using character bigrams.
+<p align="center"><img src="bigram/bigram.png"></p>
 
 - **[single layer neural network](single-layer-nn/single-layer-nn.ipynb):** This subdirectory contains the implementation of a single layered neural network approach to bigram model for generating name-like words.
 
 - **[multi layer perceptron](mlp/mlp.ipynb):** This subdirectory contains the implementation of a multi layer perceptron neural network approach to for generating name-like words. References [A Neural Probabilistic Language Model (Yoshua Bengio, et. al. 2003)](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+<p align="center"><img src="mlp/4d_mlp.png"></p>
 
 ## Project Overview
 
